@@ -20,7 +20,7 @@ try command
 ```bash
 $ wget 'https://github.com/devoscaryoung/mqtt-json-datasource/releases/download/1.0.0/mqtt-json-datasource.tar.gz'
 
-$ sudo tar zxvf mqtt-jsonpath-datasource.tar.gz -C /var/lib/grafana/plugins
+$ sudo tar zxvf mqtt-json-datasource.tar.gz -C /var/lib/grafana/plugins
 ```
 
 Setting `grafana.ini` to allow unsign plugin.
