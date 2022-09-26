@@ -18,7 +18,7 @@ Download [mqtt-jsonpath-datasource.tar.gz
 
 try command 
 ```bash
-$ wget  'https://github.com/devoscaryoung/mqtt-json-datasource/releases/download/1.0.0/mqtt-jsonpath-datasource.tar.gz)'
+$ wget 'https://github.com/devoscaryoung/mqtt-json-datasource/releases/download/1.0.0/mqtt-jsonpath-datasource.tar.gz'
 
 $ sudo tar zxvf mqtt-jsonpath-datasource.tar.gz -C /var/lib/grafana/plugins
 ```
